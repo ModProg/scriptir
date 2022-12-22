@@ -1,0 +1,2 @@
+instructions:
+  - !Exit { value: !Literal 10 }
